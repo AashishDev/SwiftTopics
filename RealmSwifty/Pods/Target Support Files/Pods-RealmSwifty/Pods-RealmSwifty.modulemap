@@ -1,0 +1,6 @@
+framework module Pods_RealmSwifty {
+  umbrella header "Pods-RealmSwifty-umbrella.h"
+
+  export *
+  module * { export * }
+}
